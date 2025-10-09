@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @samseptiano
 - 👀 I’m interested in Technology, Art dan Financial Investment.
-- 🌱 I’m currently learning Software Development especially in Mobile Technology
+- 🌱 I’m currently learning Software Engineering especially in Mobile Technology
 - 💞️ I’m looking to collaborate on business partnership :)
 - 📫 you can reach me at https://www.linkedin.com/in/samseptiano/ 
 <!---
